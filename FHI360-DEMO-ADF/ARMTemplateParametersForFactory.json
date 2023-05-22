@@ -12,7 +12,7 @@
 			"value": "https://profisee-demokv.vault.azure.net/"
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://profiseestorageaccount.dfs.core.windows.net/"
+			"value": "https://fhi360storage.dfs.core.windows.net/"
 		},
 		"AzureKeyVault2_properties_typeProperties_baseUrl": {
 			"value": "https://profisee-demokv.vault.azure.net/"
