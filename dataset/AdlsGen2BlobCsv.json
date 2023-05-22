@@ -9,7 +9,7 @@
 		"parameters": {
 			"FolderName": {
 				"type": "string",
-				"defaultValue": "profisee-input/customeraccount"
+				"defaultValue": "profisee-input/CustomerAccount"
 			},
 			"FileName": {
 				"type": "string",
